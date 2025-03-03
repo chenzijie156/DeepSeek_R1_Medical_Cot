@@ -1,4 +1,4 @@
-  # Medical_DeepSeek  
+  # DeepSeek_R1_Medical_Cot
 🚀 Fine-tuning DeepSeek R1 for Medical Chain-of-Thought Reasoning  
 
 This repository contains Jupyter notebooks and scripts for fine-tuning **DeepSeek-R1** on **medical reasoning tasks** using **Chain-of-Thought (CoT) prompting**. The goal is to enhance the model’s ability to provide **step-by-step medical explanations and reasoning**.  
