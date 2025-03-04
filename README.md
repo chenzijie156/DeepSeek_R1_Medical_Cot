@@ -10,6 +10,13 @@ This project fine-tunes **DeepSeek-R1** using **QLoRA** with medical datasets th
 
 ---
 
+## 🔗 Model on Hugging Face
+You can find the fine-tuned model on **Hugging Face** at the link below:  
+🔗 **[DeepSeek-R1-Medical-CoT on Hugging Face](https://huggingface.co/zijiechen156/DeepSeek-R1-Medical-CoT)**
+
+
+---
+
 ## 🔹 Features  
 - **Few-shot Medical Chain-of-Thought (CoT) Reasoning**  
 - **QLoRA-based fine-tuning for efficiency**  
