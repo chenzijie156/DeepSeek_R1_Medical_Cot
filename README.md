@@ -36,6 +36,7 @@ You can find the fine-tuned model on **Hugging Face** at the link below:
 | `DeepSeek_R1_Medical_CoT_Tiny.ipynb`      | Small-scale fine-tuning experiment |
 | `DeepSeek_R1_medical_CoT_Testing.ipynb`   | Testing the model on medical reasoning tasks |
 | `LICENSE`                                 | MIT License |
+| Medical_Prompt_Hyperparams.ipynb          | Prompt Engineering and hyperparamaters |
 | `README.md`                               | This file |
 
 ---
